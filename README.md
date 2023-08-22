@@ -6,7 +6,7 @@ Proceed with the following steps to setup your own gmail automation sytem:
 1.  Log in as your organization in gmail.
 2.  Go to Google Drive.
 3.  Right click on "My Drive" > "More" > "Google Apps Script"
-4.  Or directly following this link (https://script.google.com/) and change the account to your organization at the top left corner.
+4.  Or directly following this link (https://script.google.com/) and change the account to your organization at the top right corner.
 5.  Create a new .gs file (Already created - Rename if need to)
 6.  Paste the "job application.gs" file contents in the Editor.
 7.  Save it.
@@ -24,3 +24,9 @@ Proceed with the following steps to setup your own gmail automation sytem:
 
 By following the above steps, your emails will be automated every minute.
 If you want to change the intervals, change the options in steps 5 & 6 of "Set Trigger for the automation" above.
+
+# Deploy your project
+1.  Upper right corner of the editor, you will find "Deploy" button.
+2.  "Deploy" > "New deployment" > "Select type" > "Web app"
+
+Your project is now deployed and in use.
