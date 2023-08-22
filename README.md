@@ -27,6 +27,6 @@ If you want to change the intervals, change the options in steps 5 & 6 of "Set T
 
 # Deploy your project
 1.  Upper right corner of the editor, you will find "Deploy" button.
-2.  "Deploy" > "New deployment" > "Select type" > "Web app"
+2.  "Deploy" > "New deployment" > "Select type" > "Web app" > Add description if required in "Description" > click on "Deploy".
 
 Your project is now deployed and in use.
