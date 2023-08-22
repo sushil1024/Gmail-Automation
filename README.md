@@ -6,7 +6,7 @@ Proceed with the following steps to setup your own gmail automation sytem:
 1.  Log in as your organization in gmail.
 2.  Go to Google Drive.
 3.  Right click on "My Drive" > "More" > "Google Apps Script"
-4.  Or directly following this link (https://script.google.com/) and change the account to your organization at the top right corner.
+4.  Or directly follow this link (https://script.google.com/) and change the account to your organization at the top right corner.
 5.  Create a new .gs file (Already created - Rename if need to)
 6.  Paste the "job application.gs" file contents in the Editor.
 7.  Save it.
