@@ -10,7 +10,7 @@ Proceed with the following steps to setup your own gmail automation sytem:
 5.  Create a new .gs file (Already created - Rename if need to)
 6.  Paste the "job application.gs" file contents in the Editor.
 7.  Save it.
-8.  At the right hand panel, navigate to the "Triggers" section.
+8.  At the left hand panel, navigate to the "Triggers" section.
 9.  Setup the trigger for the automation process to run.
 
 # Set Trigger for the automation
