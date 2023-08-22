@@ -1,5 +1,5 @@
 # Gmail-Automation
-Automate job application received and store the attached files (Resume) in the specified folder.
+Automate job applications received and store the attached files (Resume) in the specified folder.
 
 # Setup the process
 Proceed with the following steps to setup your own gmail automation sytem:
