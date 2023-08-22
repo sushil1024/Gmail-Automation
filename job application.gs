@@ -48,7 +48,7 @@ function fetchEmailsAndCategorize() {
           subFolder.createFile(attachment);
         }
 
-        // mark email as read
+        // mark email as read - remove this line if not required.
         message.markRead();
       }
     }
