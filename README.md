@@ -14,16 +14,16 @@ Proceed with the following steps to setup your own gmail automation sytem:
 9.  Setup the trigger for the automation process to run.
 
 # Set Trigger for the automation
-1.  As you proceed to the trigger section, follow the below steps:
-2.  "Choose which function to run" > fetchEmailsAndCategorize
-3.  "Which runs at deployment" > Head
-4.  "Select event source" > Time-driven
-5.  "Select type of time based trigger" > Minutes timer
-6.  "Select minute interval" > Every minute
-7.  "Failure notification settings" > Notify me immediately
+Triggers are necessary for when the automation should start executing. As you proceed to the trigger section, follow the below steps:
+1.  "Choose which function to run" > fetchEmailsAndCategorize
+2.  "Which runs at deployment" > Head
+3.  "Select event source" > Time-driven
+4.  "Select type of time based trigger" > Minutes timer
+5.  "Select minute interval" > Every minute
+6.  "Failure notification settings" > Notify me immediately
 
 By following the above steps, your emails will be automated every minute.
-If you want to change the intervals, change the options in steps 5 & 6 of "Set Trigger for the automation" above.
+If you want to change the intervals, change the options in steps 4 & 5 of "Set Trigger for the automation" above.
 
 # Deploy your project
 1.  Upper right corner of the editor, you will find "Deploy" button.
